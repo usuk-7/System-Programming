@@ -1,0 +1,35 @@
+Script started on 2025-03-29 15:05:49+09:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="120" LINES="30"]
+[?2004h]0;stud@DESKTOP-KRMQNE7: ~[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~[00m$ mkdir -p [K[K[K[K[K[K[K[K[Kpwd
+[?2004l/home/stud
+[?2004h]0;stud@DESKTOP-KRMQNE7: ~[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~[00m$ mkdir -p 0314/software/app 0314/software/system
+[?2004l[?2004h]0;stud@DESKTOP-KRMQNE7: ~[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~[00m$ mkdir -p 0314[K[K[K[K[K[K[K[K[K[K[K[K[Kcd/[K .[Ksot[Kftware/[K[K[K[K[K[K[K[K[K0314/software/system/
+[?2004l[?2004h]0;stud@DESKTOP-KRMQNE7: ~/0314/software/system[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~/0314/software/system[00m$ mkdir -p 0314/[K[K[K[K[KLP/compiler LP/interper[K[Kreter/[K [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K/[K LP/c[Kinterpreter OS Util
+[?2004l[?2004h]0;stud@DESKTOP-KRMQNE7: ~/0314/software/system[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~/0314/software/system[00m$ mkdir -p[K[K[K[K[K[K[K[Kcd ~/software[K[K[K[K[K[K[K[K0314/software/app/
+[?2004l[?2004h]0;stud@DESKTOP-KRMQNE7: ~/0314/software/app[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~/0314/software/app[00m$ print[K[K[K[K[Kcat > d.txt
+[?2004l[?2004h]0;stud@DESKTOP-KRMQNE7: ~/0314/software/app[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~/0314/software/app[00m$ cd ../system/[K[K[Kem/LP/compiler/
+[?2004l[?2004h]0;stud@DESKTOP-KRMQNE7: ~/0314/software/system/LP/compiler[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~/0314/software/system/LP/compiler[00m$ cat >?[K a.txt
+[?2004l[?2004h]0;stud@DESKTOP-KRMQNE7: ~/0314/software/system/LP/compiler[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~/0314/software/system/LP/compiler[00m$ .[Kcd ../interpe[Kreter/
+[?2004l[?2004h]0;stud@DESKTOP-KRMQNE7: ~/0314/software/system/LP/interpreter[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~/0314/software/system/LP/interpreter[00m$ cat > b.txt
+[?2004l[?2004h]0;stud@DESKTOP-KRMQNE7: ~/0314/software/system/LP/interpreter[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~/0314/software/system/LP/interpreter[00m$ cd[K[Kcd ../../OS[K[KOS[K[K[K[K[K[K[K[K../../OS/[K[K[KUtil/
+[?2004l[?2004h]0;stud@DESKTOP-KRMQNE7: ~/0314/software/system/Util[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~/0314/software/system/Util[00m$ cd[K[Kcd[K[Kcat > c.txt
+[?2004l[?2004h]0;stud@DESKTOP-KRMQNE7: ~/0314/software/system/Util[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~/0314/software/system/Util[00m$ tr[K[Kcd ~
+[?2004l[?2004h]0;stud@DESKTOP-KRMQNE7: ~[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~[00m$ tree cd[K[K0314
+[?2004l[01;34m0314[0m
+└── [01;34msoftware[0m
+    ├── [01;34mapp[0m
+    │   └── d.txt
+    └── [01;34msystem[0m
+        ├── [01;34mLP[0m
+        │   ├── [01;34mcompiler[0m
+        │   │   └── a.txt
+        │   └── [01;34minterpreter[0m
+        │       └── b.txt
+        ├── [01;34mOS[0m
+        └── [01;34mUtil[0m
+            └── c.txt
+
+9 directories, 4 files
+[?2004h]0;stud@DESKTOP-KRMQNE7: ~[01;32mstud@DESKTOP-KRMQNE7[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2025-03-29 15:09:37+09:00 [COMMAND_EXIT_CODE="0"]
