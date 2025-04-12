@@ -1,0 +1,2 @@
+value=10
+echo "The result of value is $value."
