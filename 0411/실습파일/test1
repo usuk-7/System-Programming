@@ -1,0 +1,4 @@
+echo The time an date are:
+date
+echo "Let's see who's logged into the system"
+who
